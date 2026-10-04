@@ -1,0 +1,6 @@
+# Build outputs from iverilog/vvp
+sim/
+a.out
+
+# Waveform dumps
+*.vcd
